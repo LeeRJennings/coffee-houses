@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.shop {
+    border: dotted 2px black;
+    width: 300px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
